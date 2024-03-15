@@ -38,7 +38,7 @@ spec:
       gitSync: 
         enabled: True
         repo: git@github.com:hichemBA67/airflow-private-dags.git
-        branch: master
+        branch: main
         maxFailures: 0
         subPath: ""
         wait: 60
